@@ -1,8 +1,4 @@
----
-
 # ImageMagick Scripts from [fmwconcepts.com](https://www.fmwconcepts.com/imagemagick/index.php)
-
----
 
 | Script Name         | Description |
 |---------------------|-------------|
